@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+Pillow
+deepface
+opencv-python
+gradio
+matplotlib
